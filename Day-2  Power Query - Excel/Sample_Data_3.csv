@@ -1,0 +1,106 @@
+Full Name,Region,Category,Sales,Cost,Status,Audit ID,Notes,Order Date,Email
+Karthik Arjun,central,Groceries,-438.15,,TBD,A001,,01-01-2023,
+Shanthi Pooja,south,Clothing,11884.27,10129.51,Pending,A001,Check,02-01-2023,user1@example.com
+Ravi Santhosh,north,Electronics,3036.72,2586.4,Completed,A003,Needs Approval,03-01-2023,user2@example.com
+Karthik Rohit,west,Groceries,17919.24,11608.28,Pending,A002,,04-01-2023,user3@example.com
+Karthik Kiran,south,Electronics,16911.98,9523.11,n/a,,Check,05-01-2023,user4@example.com
+,west,Sports,-441.14,,n/a,A003,Check,06-01-2023,user5@example.com
+Anand Meena,central,Electronics,3236.1,2697.28,TBD,A001,Important,07-01-2023,user6@example.com
+Ravi Pooja,central,Clothing,12717.51,9937.67,Pending,A001,Check,08-01-2023,user7@example.com
+Rajesh Kiran,central,Furniture,2713.21,2020.45,n/a,,Important,09-01-2023,user8@example.com
+Anand Rohit,east,Electronics,910.86,815.12,n/a,A004,Review Later,10-01-2023,user9@example.com
+Ravi Rohit,west,Electronics,,14151.35,n/a,A003,Review Later,11-01-2023,
+Divya Pooja,central,Electronics,,5314.53,Completed,A003,,12-01-2023,user11@example.com
+Priya Kiran,central,Furniture,,6944.44,Completed,A004,Important,13-01-2023,user12@example.com
+Shanthi Arjun,west,Furniture,,9458.42,Canceled,,Review Later,14-01-2023,user13@example.com
+Lakshmi Manoj,central,Electronics,,12065.78,Pending,,Review Later,15-01-2023,user14@example.com
+Vijay Vikas,west,Sports,,1916.64,n/a,A001,Review Later,16-01-2023,user15@example.com
+Lakshmi Pooja,south,Furniture,132.48,73.36,Pending,A004,Check,17-01-2023,user16@example.com
+Vijay Meena,west,Furniture,7483.13,4087.07,Canceled,,Important,18-01-2023,user17@example.com
+Karthik Manoj,west,Furniture,7318.73,3972.71,TBD,A002,Review Later,19-01-2023,user18@example.com
+Karthik Nidhi,east,Groceries,8274.54,5968.34,Canceled,A003,Important,20-01-2023,user19@example.com
+Vijay Kiran,south,Electronics,14039.67,8549.31,n/a,A001,!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!,21-01-2023,
+Shanthi Arjun,east,Sports,12814.02,9507.13,TBD,A004,Needs Approval,22-01-2023,user21@example.com
+Priya Rohit,central,Furniture,19651.63,15466.71,TBD,A001,Check,23-01-2023,user22@example.com
+Karthik Manoj,west,Groceries,165.19,96.05,Canceled,,Needs Approval,24-01-2023,user23@example.com
+Karthik Rohit,south,Clothing,6857.67,5168.59,n/a,,,25-01-2023,user24@example.com
+Shanthi Kiran,east,Clothing,5464.66,3309.36,TBD,A002,Important,26-01-2023,user25@example.com
+Vijay Kiran,west,Furniture,16956.8,11791.97,Canceled,A003,Review Later,27-01-2023,user26@example.com
+Ravi Meena,north,Sports,3470.44,2991.99,Canceled,A004,,28-01-2023,user27@example.com
+Anand Pooja,east,Sports,2184.6,1831.66,n/a,A001,,29-01-2023,user28@example.com
+Shanthi Meena,south,Electronics,7869.5,4225.29,Canceled,A003,Needs Approval,30-01-2023,user29@example.com
+Ravi Meena,east,Furniture,7281.4,4874.39,Canceled,,Important,31-01-2023, 
+Divya Vikas,east,Clothing,4127.99,2520.85,Canceled,A003,Review Later,01-02-2023, 
+Priya Nidhi,east,Electronics,3495.74,1752.83,Pending,A001,,02-02-2023, 
+Lakshmi Nidhi,central,Sports,18311.84,14804.16,Completed,A003,Check,03-02-2023, 
+Vijay Pooja,north,Electronics,7748.88,5849.21,Pending,,Review Later,04-02-2023, 
+Shanthi Meena,south,Clothing,16949.68,10250.86,Canceled,A003,Needs Approval,05-02-2023, 
+Sowmya Santhosh,south,Sports,10107.16,8050.28,Completed,A004,Important,06-02-2023,user36@example.com
+Rajesh Pooja,south,Groceries,-887.06,,TBD,A003,Check,07-02-2023,user37@example.com
+Lakshmi Aarti,west,Groceries,19984.21,14402.06,Pending,A004,Review Later,08-02-2023,user38@example.com
+Divya Vikas,south,Furniture,16392.61,11000.67,Pending,A003,Review Later,09-02-2023,user39@example.com
+Rajesh Pooja,south,Electronics,19317.92,9733.68,Pending,,,10-02-2023,
+Vijay Arjun,north,Sports,18380.07,9743.23,n/a,A002,Review Later,11-02-2023,user41@example.com
+Ravi Arjun,west,Furniture,16671.31,14224.67,Canceled,A002,Important,12-02-2023,user42@example.com
+Vijay Manoj,west,Electronics,1658.84,1429.21,TBD,A004,Important,13-02-2023,user43@example.com
+Shanthi Meena,east,Clothing,8684.1,6237.23,TBD,A004,Review Later,14-02-2023,user44@example.com
+Ravi Kiran,central,Sports,2702.44,unknown,TBD,A002,,15-02-2023,user45@example.com
+Vijay Pooja,west,Electronics,6822.89,5001.2,Canceled,,Check,16-02-2023,user46@example.com
+Priya Manoj,west,Sports,-710.02,,Completed,,Check,17-02-2023,user47@example.com
+Priya Santhosh,north,Electronics,6337.41,3544.12,Pending,A003,,18-02-2023,user48@example.com
+Shanthi Santhosh,south,Clothing,19676.79,10841.48,Canceled,A004,Needs Approval,19-02-2023,user49@example.com
+Ravi Rohit,west,Sports,3834.47,2390.04,Pending,,Important,20-02-2023,
+Rajesh Vikas,west,Groceries,15249.55,13108.4,Canceled,A001,Needs Approval,21-02-2023,user51@example.com
+Sowmya Manoj,central,Clothing,8010.18,6555.92,Pending,A003,,22-02-2023,user52@example.com
+Sowmya Manoj,north,Electronics,7306.16,6168.45,Canceled,A003,Needs Approval,23-02-2023,user53@example.com
+Vijay Pooja,central,Sports,19060.99,16384.25,Completed,A002,,24-02-2023,user54@example.com
+Lakshmi Rohit,west,TBD,19899.3,11621.8,TBD,A004,Check,25-02-2023,user55@example.com
+Priya Meena,west,Electronics,10226.9,6134.22,Pending,,Check,26-02-2023,user56@example.com
+Anand Meena,north,Groceries,13804.98,7470.12,Canceled,,Needs Approval,27-02-2023,user57@example.com
+Lakshmi Santhosh,east,Groceries,1405.53,1141.36,Completed,A003,Needs Approval,28-02-2023,user58@example.com
+Divya Kiran,east,Electronics,4527.57,3864.98,Completed,A004,Important,01-03-2023,user59@example.com
+Karthik Manoj,west,Groceries,19311.61,12794.93,TBD,A004,Check,02-03-2023,
+Divya Kiran,west,Clothing,10741.97,8037.84,Canceled,A004,Important,03-03-2023,user61@example.com
+Priya Rohit,central,Groceries,9928.29,5577.93,Pending,A002,Needs Approval,04-03-2023,user62@example.com
+Shanthi Rohit,central,Furniture,14455.46,12604.47,n/a,,,05-03-2023,user63@example.com
+Anand Meena,central,Groceries,-742.36,,Completed,A004,Check,06-03-2023,user64@example.com
+Rajesh Vikas,south,Furniture,10851.91,9179,unknown,A002,,07-03-2023,user65@example.com
+Vijay Meena,west,Sports,9062.71,8070.18,TBD,A001,Important,08-03-2023,user66@example.com
+Shanthi Manoj,south,Clothing,16759.84,13815.28,Canceled,A003,Important,09-03-2023,user67@example.com
+Lakshmi Aarti,east,Sports,1463.52,1247.75,n/a,,Review Later,10-03-2023,user68@example.com
+Anand Vikas,west,Sports,19137.14,9758.31,n/a,,Check,11-03-2023,user69@example.com
+Rajesh Santhosh,west,Groceries,-237.55,,n/a,A003,Check,12-03-2023,
+Rajesh Meena,north,Groceries,2088.15,1659.3,Canceled,A001,Important,13-03-2023,user71@example.com
+Shanthi Rohit,west,Groceries,11090.77,7019.06,Pending,A002,,14-03-2023,user72@example.com
+Sowmya Pooja,east,Sports,12854.68,11213.48,Completed,A003,Check,15-03-2023,user73@example.com
+Lakshmi Nidhi,west,Clothing,3174.49,2605.92,Canceled,A002,Important,16-03-2023,user74@example.com
+Lakshmi Rohit,south,Clothing,637.51,539.09,n/a,A002,Review Later,17-03-2023,user75@example.com
+Rajesh Arjun,west,Furniture,17586.32,14496.4,Completed,A002,Needs Approval,18-03-2023,user76@example.com
+Sowmya Nidhi,south,Electronics,3416.74,2073.01,Completed,A001,Check,19-03-2023,user77@example.com
+Priya Arjun,central,Clothing,11079.42,9029.17,n/a,A001,Needs Approval,20-03-2023,user78@example.com
+Karthik Nidhi,central,Groceries,11626.39,6315.9,n/a,A002,,21-03-2023,user79@example.com
+Shanthi Pooja,north,Furniture,7222.95,6131.32,Completed,A004,Review Later,22-03-2023,
+Anand Pooja,west,Groceries,10840.79,9143.53,TBD,,Check,23-03-2023,user81@example.com
+Sowmya Meena,central,Sports,9501.22,5595.97,Completed,A001,Needs Approval,24-03-2023,user82@example.com
+Karthik Aarti,central,Sports,18563.54,15345.27,Pending,A004,Needs Approval,25-03-2023,user83@example.com
+Karthik Rohit,north,Groceries,2493.7,1705.99,Pending,A004,Important,26-03-2023,user84@example.com
+Lakshmi Santhosh,north,Clothing,13756.22,8557.42,TBD,,Needs Approval,27-03-2023,user85@example.com
+Priya Rohit,west,Electronics,3251.09,2659.84,Canceled,A002,,28-03-2023,user86@example.com
+Lakshmi Vikas,south,Groceries,6707.29,3964.26,Completed,A004,Needs Approval,29-03-2023,user87@example.com
+Rajesh Kiran,west,Clothing,12777.18,6509.54,Pending,A004,,30-03-2023,user88@example.com
+Divya Pooja,south,Furniture,4599.94,2655.32,Completed,A004,,31-03-2023,user89@example.com
+Rajesh Pooja,north,Groceries,4955.9,3128.68,TBD,A002,Important,01-04-2023,
+Shanthi Manoj,east,Furniture,14541.02,12297.94,n/a,A002,Review Later,02-04-2023,user91@example.com
+Vijay Aarti,west,Clothing,-404.05,,TBD,A001,,03-04-2023,user92@example.com
+Rajesh Aarti,east,Clothing,8082.28,7167.01,TBD,A001,Needs Approval,04-04-2023,user93@example.com
+Karthik Pooja,south,Clothing,19966,12212.2,TBD,A004,Needs Approval,05-04-2023,user94@example.com
+Ravi Meena,west,Clothing,19914.12,15066.88,Pending,A002,,06-04-2023,user95@example.com
+Vijay Arjun,east,Sports,-388.26,,TBD,A002,Needs Approval,07-04-2023,user96@example.com
+Sowmya Rohit,east,Clothing,2689.39,1774.65,n/a,,Check,08-04-2023,user97@example.com
+Ravi Kiran,west,Sports,3834.41,3422.06,n/a,A004,Important,09-04-2023,user98@example.com
+Ravi Arjun,east,Electronics,18531.71,13240.65,n/a,A001,Needs Approval,10-04-2023,user99@example.com
+Karthik Aarti,central,Sports,18563.54,15345.27,Pending,A004,Needs Approval,25-03-2023,user83@example.com
+Sowmya Manoj,north,Electronics,7306.16,6168.45,Canceled,A003,Needs Approval,23-02-2023,user53@example.com
+Rajesh Santhosh,west,Groceries,-237.55,,n/a,A003,Check,12-03-2023,
+Ravi Kiran,central,Sports,2702.44,unknown,TBD,A002,,15-02-2023,user45@example.com
+Shanthi Meena,east,Clothing,8684.1,6237.23,TBD,A004,Review Later,14-02-2023,user44@example.com
